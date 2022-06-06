@@ -1,0 +1,44 @@
+.container-fluid{
+
+    font-family: 'Times New Roman', Times, serif;
+   font-size: larger;
+}
+
+.navbar brand{
+
+    color: red;
+    background-color: red;
+
+}
+/* .display-4{
+    cursor: pointer;
+    color: black;
+    
+} */
+.display-4:hover{
+    cursor: pointer;
+    color:rgba(198, 22, 22, 0.895) ;
+}
+.jumbotron:hover{
+    background-color:rgba(238, 230, 225, 0.721);
+
+}
+.btn-dark:hover{
+    background-color: transparent;
+    color: black;
+}
+
+.row{
+
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.jumbotron{
+
+    background-color: rgb(238, 230, 225);
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
